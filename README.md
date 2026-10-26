@@ -90,7 +90,7 @@ that helps you notice patterns without judgement.
 ### Run locally
 
 ```bash
-git clone https://github.com/<your-username>/ktrack.git
+git clone https://github.com/gottabealln/ktrack.git
 cd ktrack
 flutter pub get
 flutter run
